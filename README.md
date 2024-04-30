@@ -30,3 +30,6 @@ Conclusion:
 
 ## Challenges Overcame
 We worked on this project as a team of four Data Analysts. We analyzed the data together to understand it better, divided the work to answer different business questions, and created visualizations. We collaborated on creating the presentation and presented the findings and our conclusion as a team.
+
+![Screenshot 2024-04-30 at 4 17 06 PM](https://github.com/MaxYurch/Data-Analytics-and-Visualization/assets/168555945/a49f9a26-b02c-4d06-ae24-1cdd060dd180)
+
